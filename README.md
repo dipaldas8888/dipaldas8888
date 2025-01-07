@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hi 👋! My name is Dipal Das and I'm fresher with keen interest in DSA.</h2>
 
 
+<!--
 ###
 
 <div align="center">
@@ -31,6 +32,8 @@ Here are some ideas to get you started:
 
 
 ###
+
+-->
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
