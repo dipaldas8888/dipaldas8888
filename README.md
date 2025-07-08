@@ -65,9 +65,14 @@ Built a responsive, patient-friendly UI with Tailwind CSS, improving user engage
 
 📊 GitHub Activity
 
-📬 Connect with Me
-[](https://www.linkedin.com/in/[https://www.linkedin.com/in/dipal-das-42b8a8323/])[](https://[](https://leetcode.com/[https://leetcode.com/u/dasdipal8888/])
-📝 Latest Blog Posts
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=dipaldas8888&color=green" alt="Profile Views" />
+</div>
 
 
 Thanks for visiting! Star ⭐ my repositories if you find them inspiring!
