@@ -24,7 +24,10 @@ Hi, I'm Dipal Das, a dedicated Java Full Stack Developer passionate about buildi
   A secure full-stack app for patient-doctor interactions with real-time scheduling.  
   - Built with React, Spring Boot, JWT authentication, and PostgreSQL.  
   - Features: Role-based access (Admin/Patient), forgot-password flow with Gmail SMTP, and responsive UI with Tailwind CSS.  
-  - Optimized API performance by 25% using Spring Boot caching and query tuning.  
+  - Developed a secure appointment booking system with role-based access(admin/patients).
+  -Implemented JWT authentication with a secure password reset system using UUID tokens and Gmail SMTP for encrypted reset links.
+  -Build secure profile management with image upload functionality storing profile photos in backend.
+ 
 
 ## 🏆 Achievements
 - Solved **340+ Data Structures and Algorithms problems** on LeetCode, mastering efficient coding techniques.
