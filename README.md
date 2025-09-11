@@ -2,22 +2,17 @@
 
 Hi, I'm Dipal Das, a passionate Java Full Stack Developer focused on building secure, scalable, and user-centric web applications. I specialize in Java, Spring Boot, and React.js, and I enjoy solving complex problems with clean, efficient solutions.
 
-🚀 About Me
+## 🚀 About Me  
 
+💻 **Full-Stack Developer** specializing in **Java (Spring Boot)** & **React.js**, passionate about building **secure, scalable, and user-friendly applications**.  
 
-🔭 Currently working on: Full-stack apps with React.js, Spring Boot & Firebase Auth.
+🔭 **Currently Working On:** Full-stack apps with **React.js**, **Spring Boot**, and **Firebase Authentication**.  
+🌱 **Learning Next:** Microservices · Supabase · AWS S3 · System Design.  
+🤝 **Collaboration Interests:** Open-source projects in **Healthcare**, **E-commerce**, or **Fintech**.  
+💬 **Ask Me About:** Java · Spring Boot · REST APIs · React.js · JWT Authentication · SQL.  
+🏆 **Highlights:** Solved **340+ DSA problems** on LeetCode · Strong foundation in **OOP & backend design**.  
+⚡ **Fun Fact:** I once boosted an API’s performance by **25%** with query optimization & smart caching!  
 
-🌱 Currently learning: Microservices, Supabase, AWS S3, and system design.
-
-👯 Looking to collaborate on: Open-source healthcare, e-commerce, or fintech projects.
-
-💬 Ask me about: Java, Spring Boot, REST APIs, React.js, JWT authentication, SQL.
-
-🏆 Achievements: Solved 340+ DSA problems on LeetCode.
-
-## 🛠️ Tech Stack  
-
-## 🛠️ Tech Stack  
 
 ## 🛠️ Tech Stack  
 
