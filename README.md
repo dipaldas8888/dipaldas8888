@@ -26,7 +26,7 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 
 | **Category**       | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
-| **Backend**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> Spring Boot · RESTful APIs · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40"/> Hibernate |
+| **Backend**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> Spring Boot · RESTful APIs · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40"/> Hibernate |
 | **Frontend**       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> Tailwind CSS · Shadcn UI · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40"/> Framer Motion · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40"/> Axios |
  **Databases**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB · Neon DB · Supabase |
 | **Cloud & Storage**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> Firebase · <img src="https://cdn.simpleicons.org/cloudinary/4285F4" width="40"/> Cloudinary · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> AWS S3 |
@@ -174,7 +174,7 @@ Axios
 React Router
 
 
-<h1 align="center">Smartshelf -Library Management System</h1>
+<h1 align="center">Smartshelf - Library Management System</h1>
 
 React + Spring Boot + MySQL.
 
@@ -183,6 +183,41 @@ JWT-based authentication & access control.
 Manage books, members, and transactions (borrow/return).
 
 Responsive UI with Tailwind CSS.
+
+
+
+
+<h1 align="center">🍽️ Restaurant Landing Page</h1>
+📌 Overview
+
+This is a modern restaurant landing page built using React, Vite, and Tailwind CSS.
+The website provides a clean UI to showcase restaurant services, menu highlights, and contact information.
+
+The project focuses on responsive design and modern UI components.
+
+✨ Features
+
+Modern responsive UI
+
+Clean restaurant landing layout
+
+Mobile-friendly design
+
+Fast performance using Vite
+
+Icons using React Icons
+
+🛠 Tech Stack
+
+Frontend
+
+React.js
+
+Vite
+
+Tailwind CSS
+
+React Icons
 
 📜 Certifications
 
