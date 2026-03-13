@@ -35,7 +35,8 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 | **Deployment**     | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40"/> Vercel · <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40"/> Render · <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/railway.svg" width="40"/> Railway |
 
 🌟 Featured Projects
-🛒 NextCart – E-commerce Platform
+
+<h1 align="center">🛒 NextCart – E-commerce Platform</h1>
 
 Built with React.js + Spring Boot.
 
@@ -50,7 +51,7 @@ Deployed on Vercel & Railway.
 ⚙️ **Backend Code:** https://github.com/dipaldas8888/NexttCart
 
 
-🩺 NovaCare – Doctor Appointment System
+<h1 align="center">🩺 NovaCare – Doctor Appointment System</h1>
 
 Full-stack app for patients & doctors.
 
@@ -65,7 +66,7 @@ Responsive UI with Tailwind CSS + Shadcn UI.
 ⚙️ **Backend Code:** https://github.com/dipaldas8888/NovaCare
 
 
-### 📚 BookNest – Bookstore (MERN Stack)
+<h1 align="center">### 📚 BookNest – Bookstore (MERN Stack)</h1>
 
 BookNest is a full-stack MERN-based online bookstore application that allows users to browse books, manage cart items, and place secure orders.
 The application focuses on scalable REST API design, secure authentication, and responsive user experience.
@@ -120,7 +121,60 @@ All APIs include server-side validation and structured error handling.
 ⚙️ **Full Stack Code:** https://github.com/dipaldas8888/BookNest
 
 
-📚 Smartshelf – Library Management App
+
+<h1 align="center">TaskPilot – Agent Task Distribution System</h1>
+
+🚀 Overview
+
+TaskPilot is a full-stack MERN application that allows an admin to upload task data via CSV and automatically distribute tasks among agents using a round-robin algorithm.
+
+The system includes JWT authentication, agent management, file upload, and paginated task viewing.
+
+✨ Features
+
+🔐 Admin Authentication using JWT
+
+👨‍💼 Agent Creation & Management
+
+📂 CSV / XLS / XLSX File Upload
+
+🔄 Automatic Task Distribution (Round Robin)
+
+📄 Paginated Task Listing
+
+✅ Input validation using Zod
+
+🛡 Secure password hashing using bcrypt
+
+🛠 Tech Stack
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Mongoose
+
+JWT Authentication
+
+Multer (File Upload)
+
+XLSX Parser
+
+Zod Validation
+
+Frontend
+
+React.js
+
+Axios
+
+React Router
+
+
+<h1 align="center">Smartshelf -Library Management System</h1>
 
 React + Spring Boot + MySQL.
 
