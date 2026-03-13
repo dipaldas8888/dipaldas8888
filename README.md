@@ -22,6 +22,10 @@ Java · Spring Boot · Node.js · Express.js · React.js · REST APIs · JWT Aut
 Solved 340+ DSA problems on LeetCode and built multiple full-stack production-ready applications.
 
 
+📊 GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=radical" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://komarev.com/ghpvc/?username=dipaldas8888&color=green" alt="Profile Views" /> </div>
+
+
 ## 🛠️ Tech Stack  
 
 | **Category**       | **Technologies**                                                                 |
@@ -229,8 +233,7 @@ React Icons
 
 🏅 Ultimate SQL Bootcamp (Udemy) – SQL fundamentals, queries, joins (Apr 2025)
 
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=radical" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://komarev.com/ghpvc/?username=dipaldas8888&color=green" alt="Profile Views" /> </div>
+
 ⚡ Key Strengths
 
 Proficient in Java Full-Stack Development (React.js + Spring Boot + REST APIs).
