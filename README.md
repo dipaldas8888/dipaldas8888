@@ -40,6 +40,35 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 
 🌟 Featured Projects
 
+<h3 align="center">Task Manager Application (Full Stack)</h1>
+
+A production-ready Task Management Application built using Next.js, MongoDB, and JWT Authentication. This project demonstrates strong understanding of backend architecture, security, authentication, database design, and frontend integration.
+
+🌐 Live Demo
+
+🔗 Live Website: https://task-manager-nine-nu-32.vercel.app/ 
+🔗 GitHub Repository: https://github.com/dipaldas8888/task_manager
+
+📌 Features 🔐 Authentication & Security
+
+User Registration & Login
+
+JWT-based authentication
+
+Secure HTTP-only cookies
+
+Password hashing using bcrypt
+
+AES encryption for sensitive data
+
+Protected frontend routes (middleware)
+
+🗂 Task Management
+
+Create, Read, Update, Delete (CRUD) tasks
+
+Each user can access only their own tasks
+
 <h1 align="center">🛒 NextCart – E-commerce Platform</h1>
 
 Built with React.js + Spring Boot.
