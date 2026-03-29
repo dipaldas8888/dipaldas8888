@@ -69,6 +69,35 @@ Create, Read, Update, Delete (CRUD) tasks
 
 Each user can access only their own tasks
 
+
+
+<h3 align="center">🚀 Full Stack Authentication Dashboard</h1># 
+
+A modern full-stack web application with secure JWT authentication, responsive UI, and scalable backend architecture.
+
+
+## ✨ Features
+
+### 🔐 Authentication
+- JWT-based login & registration
+- Secure password hashing using bcrypt
+- Protected routes for authenticated users
+
+### 🎨 Frontend
+- Responsive Login & Register pages
+- Dashboard with sidebar & mobile hamburger menu
+- Pages: Overview, Leads, Tasks
+- Toast notifications for user actions
+
+### ⚙️ Backend
+- REST APIs for authentication
+- Input validation using Zod
+- Centralized error handling
+- MongoDB integration with Mongoose
+
+💻 ** Code:** https://github.com/dipaldas8888/Dashhive
+  
+
 <h1 align="center">🛒 NextCart – E-commerce Platform</h1>
 
 Built with React.js + Spring Boot.
