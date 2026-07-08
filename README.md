@@ -22,7 +22,7 @@ Java · Spring Boot · Node.js · Express.js · React.js · REST APIs · JWT Aut
 Solved 340+ DSA problems on LeetCode and built multiple full-stack production-ready applications.
 
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
@@ -37,7 +37,6 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 
 
 
-## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipaldas8888&theme=tokyo-night&hide_border=true"/>
@@ -45,13 +44,27 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 
 ---
 
-## 🐍 Contribution Snake
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<p align="left">
+
+<a href="https://devpolio-eight.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dipal-das-42b8a8323/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/dasdipal8888/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/>
+</a>
+
+<a href="https://github.com/dipaldas8888">
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
+</a>
+
 </p>
-
-![Snake animation](https://github.com/dipaldas8888/dipaldas8888/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ## 🛠️ Tech Stack  
 
