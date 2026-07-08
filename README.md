@@ -35,13 +35,7 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipaldas8888&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -56,6 +50,8 @@ Solved 340+ DSA problems on LeetCode and built multiple full-stack production-re
 <p align="center">
   <img src="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
+![Snake animation](https://github.com/dipaldas8888/dipaldas8888/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ## 🛠️ Tech Stack  
 
