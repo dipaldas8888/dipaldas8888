@@ -22,9 +22,40 @@ Java · Spring Boot · Node.js · Express.js · React.js · REST APIs · JWT Aut
 Solved 340+ DSA problems on LeetCode and built multiple full-stack production-ready applications.
 
 
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=radical" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://komarev.com/ghpvc/?username=dipaldas8888&color=green" alt="Profile Views" /> </div>
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=tokyonight&hide_border=true" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=tokyonight&hide_border=true" width="55%">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipaldas8888&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipaldas8888&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ## 🛠️ Tech Stack  
 
