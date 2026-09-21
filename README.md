@@ -154,7 +154,9 @@ I believe in writing **clean, efficient code** that solves real-world problems.
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipaldas8888&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipaldas8888&theme=tokyonight)
+
 </div>
 
 ---
@@ -162,10 +164,24 @@ I believe in writing **clean, efficient code** that solves real-world problems.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dipaldas8888&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dipaldas8888&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Jobify](https://img.shields.io/badge/💼_Jobify-Job_Discovery_Engine-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dipaldas8888/jobify)
+[![Crowdly](https://img.shields.io/badge/👥_Crowdly-Social_Media_App-6D28D9?style=for-the-badge&logo=socket.io&logoColor=white)](https://github.com/dipaldas8888/Crowdly)
+[![BookNest](https://img.shields.io/badge/📚_BookNest-MERN_Bookstore-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/dipaldas8888/BookNest)
+[![NOVA](https://img.shields.io/badge/🤖_NOVA-AI_SaaS_Landing_Page-6D28D9?style=for-the-badge&logo=react&logoColor=white)](https://github.com/dipaldas8888/Nova)
+
+</div>
+
 
 ## 🌟 Featured Projects
 
