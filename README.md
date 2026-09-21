@@ -1,342 +1,445 @@
-👋 Welcome to My GitHub Profile!
+<div align="center">
 
-Hi, I'm Dipal Das, a passionate Full Stack Developer who enjoys building secure, scalable, and user-centric web applications. I specialize in both Java Full Stack (Spring Boot + React) and the MERN Stack (MongoDB, Express.js, React.js, Node.js), and I love solving complex problems with clean and efficient code.
+<!-- 3D Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dipal%20Das&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java&descAlignY=55&descSize=22" width="100%"/>
 
-🚀 About Me
+<!-- Animated Typing Banner -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&height=60&lines=👋+Hey+there%2C+I'm+Dipal+Das!;🚀+Full+Stack+Developer;💻+MERN+Stack+%7C+Java+Spring+Boot;🔥+Building+Scalable+Web+Apps;🧠+340%2B+DSA+Problems+Solved" alt="Typing SVG" />
+</a>
 
-💻 Full Stack Developer skilled in Java (Spring Boot) and the MERN stack, focused on building modern web applications and RESTful APIs.
+<br/>
 
-🔭 Currently Working On:
-Full-stack applications using Next.js , React.js, Spring Boot, Node.js, Express and MongoDB.
+<!-- Profile Viewer Count + Followers -->
+<img src="https://komarev.com/ghpvc/?username=dipaldas8888&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/dipaldas8888?label=Followers&style=for-the-badge&color=6D28D9&labelColor=1a1a2e" alt="followers"/>
 
-🌱 Currently Learning:
-Next.js , Jenkins and Kubernetes 
+</div>
 
-🤝 Open to Collaborate On:
-Projects related to E-commerce, Healthcare, and FinTech platforms
+---
 
-💬 Ask Me About:
-Java · Spring Boot · Node.js · Express.js · React.js · REST APIs · JWT Authentication · SQL & MongoDB
+<!-- 3D Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
-🏆 Highlights:
-Solved 340+ DSA problems on LeetCode and built multiple full-stack production-ready applications.
+---
 
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+```typescript
+const dipalDas = {
+  name        : "Dipal Das",
+  role        : "Full Stack Developer",
+  location    : "India 🇮🇳",
+  stacks      : ["MERN Stack", "Java Full Stack (Spring Boot + React)"],
+  building    : ["Next.js", "React.js", "Spring Boot", "Node.js", "Express", "MongoDB"],
+  learning    : ["Next.js", "Jenkins", "Kubernetes"],
+  collaborate : ["E-commerce", "Healthcare", "FinTech Platforms"],
+  askMeAbout  : ["Java", "Spring Boot", "Node.js", "Express.js", "React.js",
+                 "REST APIs", "JWT Auth", "SQL", "MongoDB"],
+  dsa         : "340+ LeetCode Problems Solved 🏆",
+  funFact     : "I debug at 3AM and call it productivity 🌙",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,hibernate&theme=dark" />
+
+<br/>**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&theme=dark" />
+
+<br/>**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase&theme=dark" />
+
+<br/>**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux&theme=dark" />
+
+<br/>**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark" />
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=tokyonight&hide_border=true" width="49%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=tokyonight&hide_border=true" width="55%">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dipaldas8888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipaldas8888&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="49%" />
 
----
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaldas8888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=10" width="55%" />
 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipaldas8888&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 📈 Contribution Graph
 
-<p align="left">
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipaldas8888&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+</div>
 
-<a href="https://devpolio-eight.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dipaldas8888&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://jobify-two-topaz.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipaldas8888&repo=jobify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 
-<a href="https://www.linkedin.com/in/dipal-das-42b8a8323/">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-</a>
+</div>
 
-<a href="https://leetcode.com/u/dasdipal8888/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/>
-</a>
+### 💼 1. Jobify — Job Discovery Engine
+> Independent Project &nbsp;|&nbsp; [🌐 Live Demo](https://jobify-two-topaz.vercel.app/) &nbsp;|&nbsp; [💻 Code](https://github.com/dipaldas8888/jobify)
 
-<a href="https://github.com/dipaldas8888">
-<img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
-</a>
+<table>
+<tr><td>
 
-</p>
+- 🔍 Multi-filtering job discovery with PDF/DOC resume upload & saved job bookmarks
+- 👔 **Recruiter Portal**: job posting lifecycle + in-browser resume inspection/download + company profile
+- 📊 **Admin Dashboard**: platform metrics, job post approvals, user role management
 
-## 🛠️ Tech Stack  
+</td><td>
 
-| **Category**       | **Technologies**                                                                 |
-|--------------------|---------------------------------------------------------------------------------|
-| **Backend**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> Spring Boot · RESTful APIs · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40"/> Hibernate |
-| **Frontend**       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> Tailwind CSS · Shadcn UI · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40"/> Framer Motion · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40"/> Axios |
- **Databases**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB · Neon DB · Supabase |
-| **Cloud & Storage**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> Firebase · <img src="https://cdn.simpleicons.org/cloudinary/4285F4" width="40"/> Cloudinary · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> AWS S3 |
-| **DevOps**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> Docker |
-| **Tools**          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> VS Code · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/> IntelliJ IDEA · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> Postman |
-| **Deployment**     | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40"/> Vercel · <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40"/> Render · <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/railway.svg" width="40"/> Railway |
-
-🌟 Featured Projects
-
-<h3 align="center">Task Manager Application (Full Stack)</h1>
-
-A production-ready Task Management Application built using Next.js, MongoDB, and JWT Authentication. This project demonstrates strong understanding of backend architecture, security, authentication, database design, and frontend integration.
-
-🌐 Live Demo
-
-🔗 Live Website: https://task-manager-nine-nu-32.vercel.app/ 
-🔗 GitHub Repository: https://github.com/dipaldas8888/task_manager
-
-📌 Features 🔐 Authentication & Security
-
-User Registration & Login
-
-JWT-based authentication
-
-Secure HTTP-only cookies
-
-Password hashing using bcrypt
-
-AES encryption for sensitive data
-
-Protected frontend routes (middleware)
-
-🗂 Task Management
-
-Create, Read, Update, Delete (CRUD) tasks
-
-Each user can access only their own tasks
-
-
-
-<h3 align="center">🚀 Full Stack Authentication Dashboard</h1># 
-
-A modern full-stack web application with secure JWT authentication, responsive UI, and scalable backend architecture.
-
-
-## ✨ Features
-
-### 🔐 Authentication
-- JWT-based login & registration
-- Secure password hashing using bcrypt
-- Protected routes for authenticated users
-
-### 🎨 Frontend
-- Responsive Login & Register pages
-- Dashboard with sidebar & mobile hamburger menu
-- Pages: Overview, Leads, Tasks
-- Toast notifications for user actions
-
-### ⚙️ Backend
-- REST APIs for authentication
-- Input validation using Zod
-- Centralized error handling
-- MongoDB integration with Mongoose
-
-💻 ** Code:** https://github.com/dipaldas8888/Dashhive
-  
-
-<h1 align="center">🛒 NextCart – E-commerce Platform</h1>
-
-Built with React.js + Spring Boot.
-
-Firebase Auth for secure login, Neon DB for products & orders, Cloudinary for images.
-
-Features: Cart, order placement, responsive UI, server-side validation.
-
-Deployed on Vercel & Railway.
-
-🔗 **Live Demo:** https://next-cart-4xks.vercel.app/ 
-💻 **Frontend Code:** https://github.com/dipaldas8888/NovaCareUI
-⚙️ **Backend Code:** https://github.com/dipaldas8888/NexttCart
-
-
-<h1 align="center">🩺 NovaCare – Doctor Appointment System</h1>
-
-Full-stack app for patients & doctors.
-
-Firebase Auth for login, Neon DB for data storage, Cloudinary for doctor images.
-
-Role-based access (Patient/Doctor/Admin), booking system, Gmail SMTP for password reset.
-
-Responsive UI with Tailwind CSS + Shadcn UI.
-
-🔗 **Live Demo:** https://nova-care-ui.vercel.app/
-💻 **Frontend Code:** https://github.com/dipaldas8888/NovaCareUI
-⚙️ **Backend Code:** https://github.com/dipaldas8888/NovaCare
-
-
-<h1 align="center">### 📚 BookNest – Bookstore (MERN Stack)</h1>
-
-BookNest is a full-stack MERN-based online bookstore application that allows users to browse books, manage cart items, and place secure orders.
-The application focuses on scalable REST API design, secure authentication, and responsive user experience.
-
-🚀 Features
-🔐 Authentication & Security
-
-Implemented JWT-based authentication for secure login and registration.
-
-Protected API routes to restrict unauthorized access to user-specific resources.
-
-Secure token storage and verification middleware for protected endpoints.
-
-📚 Book Management
-
-Dynamic book catalog system with details like title, author, category, and price.
-
-Backend APIs to create, read, update, and delete books.
-
-Efficient database queries for retrieving and filtering books.
-
-🛒 Shopping Cart System
-
-Users can add, update, and remove books from the cart.
-
-Cart data stored and synchronized with the backend database.
-
-Real-time cart updates using Redux Toolkit state management.
-
-📦 Order Management
-
-Users can place orders from their cart items.
-
-Order records stored in MongoDB with user association and order details.
-
-Backend APIs handle order creation, validation, and retrieval.
-
-⚡ RESTful API Design
-
-Developed modular REST APIs using Express.js and MongoDB for:
-
-User authentication
-
-Book catalog management
-
-Cart operations
-
-Order processing
-
-All APIs include server-side validation and structured error handling.
-
-⚙️ **Full Stack Code:** https://github.com/dipaldas8888/BookNest
-
-
-
-<h1 align="center">TaskPilot – Agent Task Distribution System</h1>
-
-🚀 Overview
-
-TaskPilot is a full-stack MERN application that allows an admin to upload task data via CSV and automatically distribute tasks among agents using a round-robin algorithm.
-
-The system includes JWT authentication, agent management, file upload, and paginated task viewing.
-
-✨ Features
-
-🔐 Admin Authentication using JWT
-
-👨‍💼 Agent Creation & Management
-
-📂 CSV / XLS / XLSX File Upload
-
-🔄 Automatic Task Distribution (Round Robin)
-
-📄 Paginated Task Listing
-
-✅ Input validation using Zod
-
-🛡 Secure password hashing using bcrypt
-
-🛠 Tech Stack
-Backend
-
-Node.js
-
-Express.js
-
+```
+Tech Stack
+──────────
+Next.js + TypeScript
+Node.js + Express.js
 MongoDB
+Redux Toolkit
+```
 
-Mongoose
+</td></tr>
+</table>
 
-JWT Authentication
+---
 
-Multer (File Upload)
+### 📚 2. BookNest — MERN Bookstore
+> [💻 Code](https://github.com/dipaldas8888/BookNest) &nbsp;|&nbsp; [🌐 Live Demo](https://book-nest-omega.vercel.app/)
 
-XLSX Parser
+<table>
+<tr><td>
 
-Zod Validation
+- 🔐 Secure JWT & Google OAuth authentication
+- 📖 Advanced book search, filtering & dynamic catalog
+- 🛒 Persistent shopping cart + order management with Redux Toolkit
+- 📦 Modular REST APIs with Express.js & MongoDB
 
-Frontend
+</td><td>
 
-React.js
-
-Axios
-
-React Router
-
-
-<h1 align="center">Smartshelf - Library Management System</h1>
-
-React + Spring Boot + MySQL.
-
-JWT-based authentication & access control.
-
-Manage books, members, and transactions (borrow/return).
-
-Responsive UI with Tailwind CSS.
-
-
-
-
-<h1 align="center">🍽️ Restaurant Landing Page</h1>
-📌 Overview
-
-This is a modern restaurant landing page built using React, Vite, and Tailwind CSS.
-The website provides a clean UI to showcase restaurant services, menu highlights, and contact information.
-
-The project focuses on responsive design and modern UI components.
-
-✨ Features
-
-Modern responsive UI
-
-Clean restaurant landing layout
-
-Mobile-friendly design
-
-Fast performance using Vite
-
-Icons using React Icons
-
-🛠 Tech Stack
-
-Frontend
-
-React.js
-
-Vite
-
+```
+Tech Stack
+──────────
+React.js + JavaScript
+Node.js + Express.js
+MongoDB + Mongoose
 Tailwind CSS
+```
 
-React Icons
-🔗 **Live Demo:**https://restro-three-pi.vercel.app/
+</td></tr>
+</table>
 
-📜 Certifications
+---
 
-🏅 Java (HackerRank) – Core Java, OOPs, Data Structures (Feb 2025)
+### 🤖 3. SenseAI — AI Resume Builder
+> [💻 Code](https://github.com/dipaldas8888/senseai)
 
-🏅 React Bootcamp (Internshala) – React apps with hooks & routing (Nov 2022)
+<table>
+<tr><td>
 
-🏅 Spring Boot Bootcamp (Udemy) – REST APIs, Spring Security (Apr 2025)
+- 🎯 ATS resume builder + cover letter generator via Google Gemini AI
+- 📋 Multi-template selection with real-time resume scoring
+- 🔒 Supabase auth + serverless architecture
 
-🏅 Ultimate SQL Bootcamp (Udemy) – SQL fundamentals, queries, joins (Apr 2025)
+</td><td>
 
+```
+Tech Stack
+──────────
+Next.js + TypeScript
+Supabase + React
+Tailwind CSS
+Google Gemini AI
+```
 
-⚡ Key Strengths
+</td></tr>
+</table>
 
-Proficient in Java Full-Stack Development (React.js + Spring Boot + REST APIs).
+---
 
-Experience with cloud platforms (Firebase, AWS S3, Vercel, Render) and modern databases (Neon DB, Supabase, MySQL).
+### 🌐 4. Nexus — Modern Web App
+> [💻 Code](https://github.com/dipaldas8888/Nexus) &nbsp;|&nbsp; [🌐 Live Demo](https://nexus-mocha-psi-35.vercel.app/)
 
-Strong problem-solving in OOP, DSA, and backend design.
+<table>
+<tr><td>
+
+- ✨ Interactive animated components with seamless UX
+- 📱 Fully responsive across all breakpoints
+- 🎨 Shadcn UI + Tailwind CSS design system
+
+</td><td>
+
+```
+Tech Stack
+──────────
+Next.js + TypeScript
+React + Shadcn UI
+Tailwind CSS
+```
+
+</td></tr>
+</table>
+
+---
+
+### 📋 5. TCongs Assignment
+> [💻 Code](https://github.com/dipaldas8888/tcongs-assignment) &nbsp;|&nbsp; [🌐 Live Demo](https://tcongs-assignment-mu.vercel.app/)
+
+<table>
+<tr><td>
+
+- 🏗️ Clean state management + modular component structure
+- 🔌 REST API integration with dynamic UI elements
+- ⚡ TypeScript throughout + deployed on Vercel
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React + TypeScript
+Tailwind CSS
+REST APIs
+Vercel
+```
+
+</td></tr>
+</table>
+
+---
+
+### ✅ 6. TaskFlow — Task Manager
+> [💻 Code](https://github.com/dipaldas8888/TaskFlow) &nbsp;|&nbsp; [🌐 Live Demo](https://task-flow-chi-sooty.vercel.app/)
+
+<table>
+<tr><td>
+
+- 🔐 Full-stack app with JWT authentication
+- ✅ CRUD tasks with priority setting & progress tracking
+- 📡 Real-time updates + responsive UI
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React + Node.js
+Express.js + MongoDB
+Tailwind CSS
+```
+
+</td></tr>
+</table>
+
+---
+
+### 🐝 7. DashHive — Auth Dashboard
+> [💻 Code](https://github.com/dipaldas8888/Dashhive)
+
+<table>
+<tr><td>
+
+- 🔐 JWT login/register + bcrypt password hashing
+- 📊 Responsive sidebar dashboard, mobile hamburger menu, toast notifications
+- ✅ Zod input validation + centralized error handling
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React.js + Tailwind CSS
+Node.js + Express.js
+MongoDB + Mongoose
+Zod Validation
+```
+
+</td></tr>
+</table>
+
+---
+
+### 🍽️ 8. Restaurant Landing Page
+> [💻 Code](https://github.com/dipaldas8888/restro-landing) &nbsp;|&nbsp; [🌐 Live Demo](https://restro-three-pi.vercel.app/)
+
+- Modern responsive restaurant UI, menu highlights, fast Vite build
+- **Stack:** `React.js` · `Vite` · `Tailwind CSS` · `React Icons`
+
+---
+
+### 🛒 9. NextCart — E-commerce Platform
+> [🌐 Live Demo](https://next-cart-4xks.vercel.app/) &nbsp;|&nbsp; [💻 Frontend](https://github.com/dipaldas8888/NextCart) &nbsp;|&nbsp; [⚙️ Backend](https://github.com/dipaldas8888/NexttCart)
+
+<table>
+<tr><td>
+
+- 🔥 Firebase Auth + Neon DB for products & orders
+- 🖼️ Cloudinary image management
+- 🛒 Cart system, order placement, server-side validation
+- 🚀 Deployed on Vercel & Railway
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React.js + Tailwind CSS
+Spring Boot + Java
+PostgreSQL (Neon DB)
+Cloudinary + Firebase
+```
+
+</td></tr>
+</table>
+
+---
+
+### 🩺 10. NovaCare — Doctor Appointment System
+> [🌐 Live Demo](https://nova-care-ui.vercel.app/) &nbsp;|&nbsp; [💻 Frontend](https://github.com/dipaldas8888/NovaCareUI) &nbsp;|&nbsp; [⚙️ Backend](https://github.com/dipaldas8888/NovaCare)
+
+<table>
+<tr><td>
+
+- 👨‍⚕️ Role-based access: Patient / Doctor / Admin
+- 📅 Booking system + Gmail SMTP password reset
+- 🖼️ Cloudinary for doctor images + Neon DB for storage
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React.js + Tailwind CSS
+Spring Boot + Java
+Supabase + Cloudinary
+Firebase Auth
+```
+
+</td></tr>
+</table>
+
+---
+
+### 💬 11. PingUp — Real-Time Chat App
+> [💻 Code](https://github.com/dipaldas8888/ping-up) &nbsp;|&nbsp; [🌐 Live Demo](https://ping-up-six-sigma.vercel.app/)
+
+<table>
+<tr><td>
+
+- ⚡ Real-time messaging via Socket.io
+- 💬 Typing indicators + online/offline status tracking
+- 🎨 Custom avatar creation + JWT authentication
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React + Node.js
+Express.js + Socket.io
+MongoDB + Tailwind CSS
+```
+
+</td></tr>
+</table>
+
+---
+
+### 🏭 12. Mini Exception Inbox — Operator Dashboard
+> [💻 Code](https://github.com/dipaldas8888/mini-exception)
+
+<table>
+<tr><td>
+
+- 📊 Detects production plan-vs-actual deficits
+- 📥 Exception inbox with quick action/status resolutions
+- 🐍 Python data pipeline: Pandas + SQLAlchemy
+
+</td><td>
+
+```
+Tech Stack
+──────────
+React + Vite
+FastAPI + Python
+SQLite + SQLAlchemy
+Pandas
+```
+
+</td></tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏫 Platform | 📅 Date |
+|:---|:---|:---|
+| Java — Core Java, OOPs, Data Structures | HackerRank | Feb 2025 |
+| React Bootcamp — Hooks & Routing | Internshala | Nov 2022 |
+| Spring Boot Bootcamp — REST APIs & Spring Security | Udemy | Apr 2025 |
+| Ultimate SQL Bootcamp — Queries & Joins | Udemy | Apr 2025 |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devpolio-eight.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipal-das-42b8a8323/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dasdipal8888/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipaldas8888)
+
+</div>
+
+---
+
+<!-- 3D Footer Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+  <sub>⭐ Star my repos if you find them helpful! &nbsp;•&nbsp; Made with ❤️ by <a href="https://github.com/dipaldas8888">Dipal Das</a></sub>
+</div>
