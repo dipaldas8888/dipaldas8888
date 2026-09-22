@@ -183,14 +183,14 @@ I believe in writing **clean, efficient code** that solves real-world problems.
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/dipaldas8888/jobify">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipaldas8888&repo=jobify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/dipaldas8888/Crowdly">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipaldas8888&repo=Crowdly&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
-</div>
+</div> -->
 
 <br/>
 
