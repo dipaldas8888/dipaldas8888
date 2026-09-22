@@ -150,9 +150,9 @@ I believe in writing **clean, efficient code** that solves real-world problems.
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeshbosak/rajeshbosak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeshbosak/rajeshbosak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajeshbosak/rajeshbosak/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dipaldas8888/dipaldas8888/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
