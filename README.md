@@ -4,9 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dipal%20Das&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20Spring%20Boot&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- Animated Typing Banner -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=750&height=55&lines=👋+Hey%2C+I'm+Dipal+Das!;🚀+Full+Stack+Developer+(MERN+%7C+Java);🔐+Building+Secure+%26+Scalable+Web+Apps;🧠+340%2B+LeetCode+Problems+Solved;🌱+Learning+Next.js+%7C+Jenkins+%7C+Kubernetes" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dipal+Das!;Full+Stack+Developer+%7C+MERN+%7C+Java;Building+Secure+%26+Scalable+Web+Apps;340%2B+LeetCode+Problems+Solved;Learning+Next.js+%7C+Jenkins+%7C+Kubernetes)](https://git.io/typing-svg)
+
 
 <br/>
 
