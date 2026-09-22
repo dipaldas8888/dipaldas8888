@@ -161,11 +161,11 @@ I believe in writing **clean, efficient code** that solves real-world problems.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dipaldas8888&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
